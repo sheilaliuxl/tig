@@ -9,3 +9,7 @@ def hello(name):
 def add_number(lhs, rhs):
     """Adds two numbers together."""
     return lhs + rhs
+
+def mult_number(lhs, rhs):
+    """Adds two numbers together."""
+    return lhs * rhs
